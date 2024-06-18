@@ -49,10 +49,6 @@ The application will be accessible at `http://localhost:8080`.
 - **Method**: GET
 - **Query Parameter**: username
 
-### Screen-Shots
-![alt text](<assets/Screenshot from 2024-06-18 13-52-42.png)
-![alt text](<assets/Screenshot from 2024-06-18 13-52-56.png)
-
 
 ## Feedback
 
